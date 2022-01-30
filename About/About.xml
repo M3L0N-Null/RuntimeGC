@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>RuntimeGC [1.3]</name>
-	<author>Trinity</author>
+	<author>user19990313, continued by Trinity</author>
 	<packageId>trinity.RuntimeGCupdated</packageId>
 	<url>https://ludeon.com/forums/index.php?topic=46581.0</url>
 	<supportedVersions>
@@ -12,6 +12,10 @@
 	</supportedVersions>
 	<description>
 &lt;size=20&gt;RuntimeGC In-Game Cleaner&lt;/size&gt;
+		
+Thanks to Trinity for continuing awesome mod from user19990313
+		
+Original Repository: https://github.com/user19990313/RimWorld-RuntimeGC
 
 -Remove unnecessary World Pawns to alleviate burden of GameSystem
 -Clear AvoidGrids to reduce the size of your savegame
